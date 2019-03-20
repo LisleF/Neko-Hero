@@ -1,2 +1,2 @@
 # Neko-Hero
-Simple shooter game made with Love2D
+Simple shooter game made with Love2D for didactic purposes
